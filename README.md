@@ -1,2 +1,1 @@
-# holbertonschool-shell
-basics
+this is readme file for shell
